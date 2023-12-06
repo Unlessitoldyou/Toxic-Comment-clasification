@@ -19,6 +19,9 @@ The initial paper that spurred this research is a good resource to use.
 Nagwa El-Makky Mai Ibrahim Marwan Torki. “Imbalanced Toxic Comments Classification using Data Augmentation and Deep Learning”. In: IEEE (2018).
 https://ieeexplore.ieee.org/document/8614166
 
+GITHUB:
+https://github.com/soyesiku/Toxic-Comments-Classification-using-Deep-Learning-Techniques
+
 
 ROADMAP OF FUTURE ENDEAVORS:
 Much work needs to be done in order to improve the work done in this project. Here are the key steps:
@@ -28,7 +31,4 @@ Much work needs to be done in order to improve the work done in this project. He
 
 
 AUTHORS:
-Amira Bendjama
-Nikhil Muthuvenkatesh 
 Seyi Oyesiku
-Connor Roth
